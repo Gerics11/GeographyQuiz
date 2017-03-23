@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="questionTVtextsize">36sp</dimen>
+    <dimen name="questionTVmargintop">160dp</dimen>
+    <dimen name="questionTVmarginleft">16dp</dimen>
+    <dimen name="questionTVmarginright">16dp</dimen>
+    <dimen name="questionTVpadding">8dp</dimen>
+    <dimen name="bigButtonTextSize">48sp</dimen>
+    <dimen name="bigButtonPadding">20dp</dimen>
+    <dimen name="bigButtonBottomMargin">125dp</dimen>
+    <dimen name="buttonTextSize">28sp</dimen>
+    <dimen name="buttonMargin">30dp</dimen>
+    <dimen name="buttonPadding">16dp</dimen>
+    <dimen name="editTextPadding">16dp</dimen>
+    <dimen name="editTextTextSize">32sp</dimen>
+    <dimen name="buttonListTextSize">36sp</dimen>
+    <dimen name="introMarginTop">160dp</dimen>
+    <dimen name="groupviewMarginBottom">200dp</dimen>
+    <dimen name="editTextMarginBottom">220dp</dimen>
+    <dimen name="scrollviewheight">400dp</dimen>
+    <dimen name="scrollviewMarginBottom">230dp</dimen>
+    <dimen name="submitButtonMarginBottom">100dp</dimen>
+</resources>

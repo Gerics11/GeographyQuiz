@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">GeographyQuiz</string>
+    <string name="contentdesc">background image</string>
+    <string name="quizintro">Test your knowledge in geography! How many questions can you answer?</string>
+    <string name="nameentry">your name</string>
+    <string name="answerentry">your answer</string>
+    <string name="startbutton">Start Quiz</string>
+    <string name="next">Next</string>
+    <string name="tryagain">Try Again</string>
+    <string name="submit">Submit answers</string>
+    <string name="entername">Enter your name below:</string>
+    <string name="PH">PLACEHOLDER</string>
+    <string name="needname">Type in your first name please</string>
+    <string name="presubmittext">Thank you for taking the Geography Test!\nHit the submit button to get your results!</string>
+    <string name="q1">What is Earth\'s third largest continent by land surface size?</string>
+    <string name="q1a1">Europe</string>
+    <string name="q1a2">North America</string>
+    <string name="q1a3">Africa</string>
+    <string name="q1a4">South America</string>
+    <string name="q2">On which continent is Bhutan located?</string>
+    <string name="q2answer">Asia</string>
+    <string name="q3">Select the islands of the Mediterranean sea</string>
+    <string name="q3a1">Cyprus</string>
+    <string name="q3a2">Corsica</string>
+    <string name="q3a3">Borneo</string>
+    <string name="q3a4">Sicily</string>
+    <string name="q4">Which is the largest landlocked country (has no borders on sea)?</string>
+    <string name="q4a1">Mongolia</string>
+    <string name="q4a2">Chad</string>
+    <string name="q4a3">Khazakhstan</string>
+    <string name="q4a4">Afghanistan</string>
+    <string name="q5">Which is the longest river in Europe?</string>
+    <string name="q5a1">Ural</string>
+    <string name="q5a2">Dnieper</string>
+    <string name="q5a3">Danube</string>
+    <string name="q5a4">Volga</string>
+    <string name="q6">How many states are in the U.S.A.?</string>
+    <string name="q6answer">Fifty</string>
+    <string name="q7">Which colors make up the flag of Russia?</string>
+    <string name="q7a1">Red</string>
+    <string name="q7a2">Black</string>
+    <string name="q7a3">White</string>
+    <string name="q7a4">Blue</string>
+    <string name="q8">Which country has the largest population in Africa?</string>
+    <string name="q8a1">Ethiopia</string>
+    <string name="q8a2">Egypt</string>
+    <string name="q8a3">Nigeria</string>
+    <string name="q8a4">South Africa</string>
+    <string name="q9">Type the name of one Scandinavian country below</string>
+    <string name="q9answer1">Denmark</string>
+    <string name="q9answer2">Norway</string>
+    <string name="q9answer3">Sweden</string>
+    <string name="q10">Which countries are not on the equator?</string>
+    <string name="q10a1">Brazil</string>
+    <string name="q10a2">Malaysia</string>
+    <string name="q10a3">Venezuela</string>
+    <string name="q10a4">Kenya</string>
+    <string name="showanswer">show right answers</string>
+    <string name="summary1">\'s final score is</string>
+    <string name="summary2">/10 points</string>
+    <string name="summary3">\n\nIf you liked this quiz, check out Triviaplaza.com for more quizzes in more topics!</string>
+    <string name="summary4">\n(tap on this message to open their site in your browser)</string>
+    <string name="toast1">Congratulations, perfect score!</string>
+    <string name="toast21">Your score is </string>
+    <string name="toast22">/10, good job!</string>
+    <string name="toast31">You scored </string>
+    <string name="toast32">/10, try again or take look at the answers</string>
+    <string name="answerlist">Earth\'s third largest continent is North America, first being Asia and Africa second
+                            \n\nBhutan is in South Asia
+                            \n\nBorneo is located Southeast Asia. Cyprus, Corsica and Sicily are on the Mediterranean sea
+                            \n\nThe largest country without a sea border is Khazakhstan
+                            \n\nEurope\'s longest river is Volga (3,692km long), which is located entirely in Russia
+                            \n\nThere are 50 states in the United States of America
+                            \n\nWhite, blue and red are the colors of the Russian flag
+                            \n\nNigeria is the most populated country in Africa
+                            \n\nThe Scandinavian countries are Sweden, Denmark and Norway
+                            \n\nMalaysia and Venezuela are close to the equator, but it\'s not passing through them</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

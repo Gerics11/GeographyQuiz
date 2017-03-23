@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@android:color/black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="appBackground">
+        <item name="android:alpha">1</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:src">@drawable/map1</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="buttonStyle">
+        <item name="android:textSize">@dimen/buttonTextSize</item>
+        <item name ="android:layout_margin">@dimen/buttonMargin</item>
+        <item name="android:padding">@dimen/buttonPadding</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:layout_width">wrap_content</item>
+    </style>
+    <style name="questionTextView">
+        <item name ="android:layout_marginLeft">@dimen/questionTVmarginleft</item>
+        <item name ="android:layout_marginRight">@dimen/questionTVmarginright</item>
+        <item name ="android:layout_marginTop">@dimen/questionTVmargintop</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/questionTVtextsize</item>
+        <item name="android:background">@color/textBackGround</item>
+        <item name="android:padding">@dimen/questionTVpadding</item>
+    </style>
+    <style name="bigButtonStyle">
+        <item name ="android:textSize">@dimen/bigButtonTextSize</item>
+        <item name="android:padding">@dimen/bigButtonPadding</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/bigButtonBottomMargin</item>
+    </style>
+    <style name="editTextStyle">
+        <item name="android:inputType">textCapWords</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/editTextPadding</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColorHint">@android:color/white</item>
+        <item name="android:textSize">@dimen/editTextTextSize</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@color/textBackGround</item>
+    </style>
+    <style name="buttonList">
+        <item name="android:textSize">@dimen/buttonListTextSize</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="buttonListView">
+        <item name="android:padding">4dp</item>
+        <item name="android:background">@color/textBackGround</item>
+        <item name="android:layout_marginBottom">@dimen/groupviewMarginBottom</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+    </resources>
